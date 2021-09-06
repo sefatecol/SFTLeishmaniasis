@@ -11,11 +11,12 @@ Carlos Molina (Desarrollador)
 Darwin Rodriguez (SCRUM Master)
 Fernando Toro Bernal (Product Owner)
 
-> El mejor modo de predecir el futuro es inventándolo - [Alan Kay] (https://es.wikipedia.org/wiki/Alan_Kay)
+> El mejor modo de predecir el futuro es inventándolo - [Alan Kay](https://es.wikipedia.org/wiki/Alan_Kay)
 
-'git init'
-'''
+`git init`
+
+````
 git status
 git add
 git commit
-'''
+``
