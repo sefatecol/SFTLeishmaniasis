@@ -7,11 +7,11 @@ Este es un repositorio para el proyecto de desarrollo del *ciclo 3* **MisionTic2
 > El mejor modo de predecir el futuro es inventándolo - [Alan Kay](https://es.wikipedia.org/wiki/Alan_Kay)
 
 ***Integrantes***:
-> Paula Goméz (Desarrollador)
-> Alejandro León (Desarrollador)
-> Carlos Molina (Desarrollador)
-> Darwin Rodriguez (SCRUM Master)
-> Fernando Toro Bernal (Product Owner)
+- Paula Goméz (Desarrollador)
+- Alejandro León (Desarrollador)
+- Carlos Molina (Desarrollador)
+- Darwin Rodriguez (SCRUM Master) @
+- Fernando Toro Bernal (Product Owner) @ftorob
 
 `git init`
 
