@@ -15,8 +15,8 @@ Fernando Toro Bernal (Product Owner)
 
 `git init`
 
-````
+```
 git status
 git add
 git commit
-``
+```
