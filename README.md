@@ -1,5 +1,5 @@
 # SFTLeishmaniasis
-## SEFATECOL:registered:
+## SEFATECOL®
 ### Seguimiento Farmacoterapéutico Colombiano
 
 Este es un repositorio para el proyecto de desarrollo del *ciclo 3* **MisionTic2022** - Grupo 74 - ~~ID 6~~ Universidad Tecnológica De Pereira.
@@ -13,10 +13,10 @@ Este es un repositorio para el proyecto de desarrollo del *ciclo 3* **MisionTic2
 - Darwin Rodriguez :arrow_right: SCRUM Master
 - Fernando Toro Bernal :arrow_right: Product Owner :star: @ftorob
 
-`git init`
+`git init` :expressionless:
 
 ```
-git status
-git add
-git commit
+git status :grin:
+git add :bowtie:
+git commit :smirk:
 ```
