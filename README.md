@@ -1,7 +1,7 @@
 
 # Seguimiento Farmacoterapéutico Colombiano SEFATECOL® 
 
-_Este es un repositorio para el proyecto de desarrollo del *ciclo 3* **MisionTic2022** 🚀 - Grupo 74 - ~~ID 6~~ Universidad Tecnológica De Pereira, para el seguimiento farmacoterapeutico a pacientes diagnosticados con leishmaniasis._ 
+_Este es un repositorio para el proyecto de desarrollo del *ciclo 3* **MisionTic2022** 🚀 - Grupo 74 - ~~ID 6~~ Universidad Tecnológica De Pereira, para el seguimiento farmacoterapéutico a pacientes diagnosticados con leishmaniasis._ 
 
 > El mejor modo de predecir el futuro es inventándolo - [Alan Kay](https://es.wikipedia.org/wiki/Alan_Kay)
 
@@ -26,5 +26,3 @@ Puedes encontrar mucha más información y cómo utilizar este proyecto  en nues
 - **Carlos Molina** :arrow_right: *Desarrollador* - 👨‍💻
 - **Darwin Rodriguez** :arrow_right: *SCRUM Master* - [daroxx47](https://github.com/darox47) 🔩
 - **Fernando Toro Bernal** :arrow_right: *Product Owner* - [ftorob](https://github.com/ftorob) :star:
-
-
