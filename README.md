@@ -10,7 +10,7 @@ Este es un repositorio para el proyecto de desarrollo del *ciclo 3* **MisionTic2
 - Paula Goméz (Desarrollador)
 - Alejandro León (Desarrollador)
 - Carlos Molina (Desarrollador)
-- Darwin Rodriguez (SCRUM Master) @
+- :bowtie: Darwin Rodriguez (SCRUM Master) @
 - Fernando Toro Bernal (Product Owner) @ftorob
 
 `git init`
