@@ -13,10 +13,10 @@ Este es un repositorio para el proyecto de desarrollo del *ciclo 3* **MisionTic2
 - Darwin Rodriguez :arrow_right: SCRUM Master
 - Fernando Toro Bernal :arrow_right: Product Owner :star: @ftorob
 
-`git init` :expressionless:
+`git init` :expressionless: :grin: :bowtie: :smirk:
 
 ```
-git status :grin:
-git add :bowtie:
-git commit :smirk:
+git status
+git add
+git commit
 ```
