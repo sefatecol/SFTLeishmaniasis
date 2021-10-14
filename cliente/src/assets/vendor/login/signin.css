@@ -1,0 +1,139 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+  background: #fff;
+  color: #444;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+}
+
+a {
+  color: #50d8af;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+a:hover, a:active, a:focus {
+  color: #51d8af;
+  outline: none;
+  text-decoration: none;
+}
+
+p {
+  padding: 0;
+  margin: 0 0 30px 0;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #ffffff;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 300px;
+  padding: 15px;
+  margin: 30px 0px 0px 550px;
+  align-items: center;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+  align-items: center;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 20px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+/*--------------------------------------------------------------
+# Fondo
+--------------------------------------------------------------*/
+
+body {
+  background: #fff;
+  color: #444;
+  font-family: "Open Sans", sans-serif;
+}
+
+/*--------------------------------------------------------------
+# Botón entrar color personalizado
+--------------------------------------------------------------*/
+
+.btn-entrar { 
+  color: #FFFFFF; 
+  background-color: #50D8AF; 
+  border-color: #50D8AF; 
+} 
+ 
+.btn-entrar:hover, 
+.btn-entrar:focus, 
+.btn-entrar:active, 
+.btn-entrar.active, 
+.open .dropdown-toggle.btn-entrar { 
+  color: #FFFFFF; 
+  background-color: #50D8AF; 
+  border-color: #50D8AF; 
+} 
+ 
+.btn-entrar:active, 
+.btn-entrar.active, 
+.open .dropdown-toggle.btn-entrar { 
+  background-image: none; 
+} 
+ 
+.btn-entrar.disabled, 
+.btn-entrar[disabled], 
+fieldset[disabled] .btn-entrar, 
+.btn-entrar.disabled:hover, 
+.btn-entrar[disabled]:hover, 
+fieldset[disabled] .btn-entrar:hover, 
+.btn-entrar.disabled:focus, 
+.btn-entrar[disabled]:focus, 
+fieldset[disabled] .btn-entrar:focus, 
+.btn-entrar.disabled:active, 
+.btn-entrar[disabled]:active, 
+fieldset[disabled] .btn-entrar:active, 
+.btn-entrar.disabled.active, 
+.btn-entrar[disabled].active, 
+fieldset[disabled] .btn-entrar.active { 
+  background-color: #50D8AF; 
+  border-color: #50D8AF; 
+} 
+ 
+.btn-entrar .badge { 
+  color: #50D8AF; 
+  background-color: #FFFFFF; 
+}
