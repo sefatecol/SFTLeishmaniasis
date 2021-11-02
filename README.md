@@ -29,3 +29,6 @@ _Domingo_ | 09:00 am | 03:00 pm | https://meet.google.com/pmy-pojs-ehk
 - **Carlos Molina** :arrow_right: *Desarrollador* - [Project_Camb](https://github.com/Project-Camb)👨‍💻
 - **Darwin Rodriguez** :arrow_right: *SCRUM Master* - [daroxx47](https://github.com/darox47) 🔩
 - **Fernando Toro Bernal** :arrow_right: *Product Owner* - [ftorob](https://github.com/ftorob) :star:
+
+## Contacto 📩
+Correo electrónico [safetacol@gmail.com](safetacol@gmail.com)
