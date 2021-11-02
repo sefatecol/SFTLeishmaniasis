@@ -1,25 +1,24 @@
 
 # Seguimiento Farmacoterapéutico Colombiano [SEFATECOL®](https://sefatecol-dev.herokuapp.com/) 
+Es un servicio profesional que aborda de manera global los problemas de salud y los medicamentos que utiliza el paciente, centrándose en la valoración de la necesidad, efectividad y seguridad de la farmacoterapia.
 
-_Este es un repositorio para el proyecto de desarrollo del *ciclo 3* **MisionTic2022** 🚀 - Grupo 74 - ~~ID 6~~ Universidad Tecnológica De Pereira, para el seguimiento farmacoterapéutico a pacientes diagnosticados con leishmaniasis._ 
+> ### El mejor modo de predecir el futuro es inventándolo - [Alan Kay](https://es.wikipedia.org/wiki/Alan_Kay)
 
-> El mejor modo de predecir el futuro es inventándolo - [Alan Kay](https://es.wikipedia.org/wiki/Alan_Kay)
-
-## Introducción 📋
-_Este proyecto  consiste en desarrollar una aplicacion web utilizando el stack MEVN, con el objetivo de llevar el seguimiento a los farmacos usados en el tratamiento a pacientes diagnosticados con leishmaniasis por parte de instituciones hospitalarias._
+## Sobre Nosotros 📋
+Somos tripulantes de la MisionTic2022🚀 cursando el ciclo 4 y pertenecientes al grupo 12 - ID 06 en la Universidad Tecnológica De Pereira. Nuestro proyecto consiste en desarrollar una aplicación web utilizando el stack MEVN, con el objetivo de llevar el seguimiento a los fármacos usados en el tratamiento de pacientes diagnosticados con leishmaniasis o tuberculosis por parte de instituciones hospitalarias autorizadas.
 
 ## Construido con 🛠️
-
 * [Mongo](https://www.mongodb.com/es) - _La base de datos lider para aplicaciónes modernas_
-* [Express](http://expressjs.com/) - _framework para crear aplicaciones web, apis y web services_
-* [Vue](https://vuejs.org/) - _framework progresivo Javascript para crear interfaces de usuario_
-* [Node.js](https://nodejs.org/en/) -  _entorno JavaScript de lado de servidor que utiliza un modelo asíncrono y dirigido por eventos_
-
+* [Express](http://expressjs.com/) - _Framework para crear aplicaciones web, apis y web services_
+* [Vue](https://vuejs.org/) - _Framework progresivo Javascript para crear interfaces de usuario_
+* [Node.js](https://nodejs.org/en/) -  _Entorno JavaScript de lado de servidor que utiliza un modelo asíncrono y dirigido por eventos_
+* [BootstrapVue](https://bootstrap-vue.org/) - _Biblioteca multiplataforma de código abierto para diseño de sitios y aplicaciones web._
+* [Heroku](https://id.heroku.com/login) - _Es una plataforma como servicio de computación en la Nube que soporta distintos lenguajes de programación_
 
 ## Wiki 📖
+Puedes encontrar mucha más información, documentación y cómo utilizar este proyecto en nuestra [Wiki](https://github.com/sefatecol/SFTLeishmaniasis/wiki)
 
-_Puedes encontrar mucha más información, documentación y cómo utilizar este proyecto  en nuestra_ [Wiki](https://github.com/sefatecol/SFTLeishmaniasis/wiki)
-## Horario Reunion Scrum Semanal 🟢
+## Horario Reunión Scrum Semanal 🟢
 **Dia** | **Hora Colombia** | **Hora UK** | **Link de Acceso a la Reunion** 
 ------- | ----------------- | ----------- | -------------------------------
 _Domingo_ | 09:00 am | 03:00 pm | https://meet.google.com/pmy-pojs-ehk
