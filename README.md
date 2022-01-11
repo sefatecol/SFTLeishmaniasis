@@ -35,3 +35,4 @@ Correo electrónico [safetacol@gmail.com](safetacol@gmail.com)
 
 ## Notas 
 El proyecto mantiene en estado de desarrollo...
+Solo dos colaboradores realizaran la programacion
