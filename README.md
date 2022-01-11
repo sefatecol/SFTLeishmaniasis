@@ -32,3 +32,6 @@ _Domingo_ | 09:00 am | 03:00 pm | https://meet.google.com/pmy-pojs-ehk
 
 ## Contacto 📩
 Correo electrónico [safetacol@gmail.com](safetacol@gmail.com)
+
+## Notas 
+El proyecto mantiene en estado de desarrollo...
