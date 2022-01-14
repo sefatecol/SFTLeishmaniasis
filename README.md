@@ -35,5 +35,5 @@ Correo electrónico [safetacol@gmail.com](safetacol@gmail.com)
 
 ## Notas 
 El proyecto mantiene en estado de desarrollo...
-y formara parte del portafolio de los desarrolladores
+y formara parte del **portafolio** de los desarrolladores
 
